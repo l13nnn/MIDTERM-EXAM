@@ -1,4 +1,5 @@
 import Header from './components/Header.jsx';
+import Look from './components/Look.jsx';
 import Window from './components/Window.jsx';
 import Fresh from './components/Fresh.jsx';
 import Shortcuts from './components/Shortcuts.jsx';
@@ -13,6 +14,7 @@ function App() {
   return (
     <>
       <Header />
+      <Look />
       <Window />
       <Fresh />
       <Shortcuts />

@@ -48,10 +48,7 @@ function Fresh() {
         <div className='fresh-section'>
             <div className='fresh-container'>
                 <div className='fresh-text'>
-                    <h1>Fresh New Look</h1>
-                </div>
-                <div className='fresh-text-1'>
-                    <h1>Elegance Infused with Efficiency</h1>
+                    <h1>Fresh New Look <br /> <span className='fresh-text-span'>Elegance Infused with Efficiency</span></h1>
                 </div>
                 <div className='fresh-text-2'>
                     <p>Every pixel has been refined and polished with care, resulting <br /> in a harmonious balance between aesthetics and usability.</p> <br />
