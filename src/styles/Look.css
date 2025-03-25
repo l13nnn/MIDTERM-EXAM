@@ -1,3 +1,7 @@
+.look-container {
+    margin-top: 20rem;
+}
+
 .look-text {
     text-align: center;
     font-size: 24px;
@@ -14,4 +18,25 @@
     background:linear-gradient(90deg, var(--token-8c609274-7844-4499-8818-76c304fbb2a5, rgb(255, 159, 82)) 0%, var(--token-8c609274-7844-4499-8818-76c304fbb2a5, rgb(255, 159, 82)) 20%, var(--token-8c609274-7844-4499-8818-76c304fbb2a5, rgb(255, 159, 82)) 25%, var(--token-8c609274-7844-4499-8818-76c304fbb2a5, rgb(255, 159, 82)) 33.33333333333333%, var(--token-8c609274-7844-4499-8818-76c304fbb2a5, rgb(255, 159, 82)) 50%, rgb(255, 87, 60) 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+}
+
+.look-image-1 {
+    position: relative;
+    text-align: center;
+    height: 65rem;
+}
+
+.look-image-2 {
+    position: absolute;
+    top: 48rem;
+    left: 10rem;
+    height: 15rem;
+}
+
+.look-image-3 {
+    position: absolute;
+    top: 48rem;
+    left: 41rem;
+    width: 23rem;
+    height: 15rem;
 }
